@@ -1,2 +1,2 @@
 # Love War 
-Link to my webpage on the web : file:///C:/Users/chloe/Downloads/new-age-template/new-age-template/index.html#reviews
+Link to my webpage on the web : https://chloe-carlier.github.io/Tutorial-9-/
